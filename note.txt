@@ -1,0 +1,3 @@
+Hello, this is my first file, 
+i'm learning python file handling. 
+This line is addes at the end.

@@ -1,0 +1,2 @@
+Hello, this is my first file, 
+i'm learning python file handling. 

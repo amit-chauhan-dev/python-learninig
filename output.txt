@@ -1,0 +1,2 @@
+This is safe file writing.
+No need to call close().
